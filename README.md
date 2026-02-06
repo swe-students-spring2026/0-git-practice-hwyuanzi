@@ -17,6 +17,6 @@ Interesting perspective. I think AI might actually be amplifying the gap between
 
 ### Comment by Jonas Chen
 
-I found the article’s breakdown helpful because it frames the developer versus engineer distinction as a difference in responsibility rather than skill level. The emphasis on system-wide thinking, failure cases, and long-term maintenance made it clear why engineering roles often require broader context beyond writing correct code.
+I found the article’s breakdown useful because it frames the developer versus engineer distinction as a difference in responsibility rather than skill level. The important points on system-wide thinking, failure cases, and long-term maintenance made it clear why engineering roles often require broader context beyond writing correct code.
 
-At the same time, the career paths described feel more like tendencies than strict rules. In practice, especially in smaller teams or fast-moving environments, developers are often required to think like engineers as well. This made me realize that developing an engineering mindset early can be valuable regardless of the specific job title.
+Meanwhile, the career paths described feel more like tendencies than strict rules. In fact, especially in smaller teams or fast-moving environments, developers are often required to think like engineers as well. This help me realize that developing an engineering mindset early can be valuable regardless of the specific job title.
